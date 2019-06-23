@@ -1,7 +1,8 @@
 /*********************************************************
  * Author: Filip Matic
  * Title: Pun_c.c 
- * Description: This is a basic Code for Practice Purposes
+ * Description: This is a basic Code in C for 
+ * Practice Purposes
  *
  *********************************************************/
 #include <stdio.h>
