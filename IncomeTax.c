@@ -25,7 +25,7 @@ scanf("%lf", &Salary);
 	if (Salary>20000 && Salary<35000)
 	{
 	Tax=(.15)*(20000)+((Salary-20000)*(.20));
-	printf("Tax amount: %lf\n:", T);	
+	printf("Tax amount: %lf\n:", Tax);	
 	}
 
 	if (Salary>35000 && Salary<50000)
@@ -44,4 +44,6 @@ scanf("%lf", &Salary);
 	{
 	Tax=(.15)*(20000)+(.20)*(15000)+(.25)*(15000)+(.30)*(50000)+((Salary-100000)*(.35));
 	printf("Tax amount: %lf\n:", Tax);
-	}  }
+	}  
+	return 0;
+}
