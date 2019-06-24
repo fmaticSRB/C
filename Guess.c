@@ -27,8 +27,8 @@ int Guess;
 	else 
 	if ( RandNum>Guess ) puts ("Higher");	// Display Higher if the random Number is higher than guessed value. 
 	}
-	while ( RandNum!=Guess );
+	while (RandNum!=Guess);
 
-	puts ("Correct");	// Display Correct when the user guesses the number. 
+	puts ("Correct");	// Display Correct when the user guesses the number.
 	return 0;
 }
