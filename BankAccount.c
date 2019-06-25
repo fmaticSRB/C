@@ -6,7 +6,7 @@
  * a deposit, a transfer, or withdraw. 
  * 
  * Note: User can only make one action. More actions will be
- * added over time. 
+ * added over time.
  *********************************************************/
 #include <stdio.h>
 int main(void)
