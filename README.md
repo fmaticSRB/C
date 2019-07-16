@@ -22,19 +22,19 @@ confusion.
 * Dweight
 
    Computes the Dimensional weight of a 12" x 10" x 8" box
-*Dweight2
+* Dweight2
 
   Computes the Dimensional weight of a box based on user input.
-*Guess
+* Guess
 
    Generates a random number (1-100) that the user must guess correctly. Provides guidance if the guess is incorrect.  
-*IncomeTax
+* IncomeTax
 
    Calculates income tax based on user entered income value. Note, there are not real tax values, this code is meant for demonstration purposes.
-*Pun_C
+* Pun_C
 
    Basic code that prints a string
-*StringReplace
+* StringReplace
 
    Program that search each line of an input file for a user specified string, and replaces one ocurrence of that 
    string with a user specified replacement string. The resulting modified text will be printed to the stadard output.
